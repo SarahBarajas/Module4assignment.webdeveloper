@@ -1,0 +1,35 @@
+body { 
+    background: url(images/scope.jfif) no-repeat center center fixed; 
+    background-size:center;
+    background-size:Larger ;
+    background-position: top;
+   }
+
+  h1 {
+    text-shadow: 1px 1px #d01d1d;
+    text-decoration-color: black;
+    text-align:center;
+    font-size: 500%;
+    border-bottom: 7px solid rgb(0, 0, 0); 
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+  }
+   /* Change the link color on hover */
+   li a:hover {
+    background-color: white;
+    color: rgb(209, 44, 44);
+  }
+  
+ 
+  
+ 
