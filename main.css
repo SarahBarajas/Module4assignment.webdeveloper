@@ -29,20 +29,18 @@ body {
     background-color: white;
     color: rgb(209, 44, 44);
   }
-  caption {
-    display: table-caption;
-    text-align: center;
-    text-shadow: #d01d1d;
-  }
   table, th, td {
     border: 1px solid;
     border-collapse: collapse;
     border: 2px solid;
-    border-color: #d01d1d;
-    border-style: groove;
-    
+    border-color: #d01d1d;    
 }
- 
+h2 {
+  text-shadow: 1px 1px #d01d1d;
+  text-decoration-color: black;
+  text-align:left;
+  font-size: 200%;
+  }
   
   
  
