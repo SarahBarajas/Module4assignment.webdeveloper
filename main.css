@@ -70,3 +70,19 @@ h2 {
   background-color: yellow;
   color: black;
 }
+video {
+  display: block;
+  margin: 0 auto;
+  }
+  h5 {
+    text-shadow: 1px 1px #d01d1d;
+    text-decoration-color: black;
+    text-align:center;
+    font-size: 200%;
+  }
+  h6{
+    text-shadow: 1px 1px #d01d1d;
+    text-decoration-color: black;
+    text-align:center;
+    font-size: 200%;
+  }
