@@ -92,5 +92,9 @@ video {
     text-align:center;
   
    }
-  
+   /*applies to section class*/
+  .section{color:black}
+
+  /*applies to one class*/
+  .one {text-color:white;}
  
